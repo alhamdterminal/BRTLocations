@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AICTGITPROJECTS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17A2E219-2127-4797-A9F0-487A1D500EEC}|BRT\\BRT.csproj|d:\\aictgitprojects\\brt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17A2E219-2127-4797-A9F0-487A1D500EEC}|BRT\\BRT.csproj|solutionrelative:brt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A2E219-2127-4797-A9F0-487A1D500EEC}|BRT\\BRT.csproj|d:\\aictgitprojects\\brt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A2E219-2127-4797-A9F0-487A1D500EEC}|BRT\\BRT.csproj|solutionrelative:brt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8E77C4-02BA-41BD-9D9E-F114BE91C414}|BRTAPI\\BRTAPI.csproj|d:\\aictgitprojects\\brtapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8E77C4-02BA-41BD-9D9E-F114BE91C414}|BRTAPI\\BRTAPI.csproj|solutionrelative:brtapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8E77C4-02BA-41BD-9D9E-F114BE91C414}|BRTAPI\\BRTAPI.csproj|d:\\aictgitprojects\\brtapi\\controllers\\containercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8E77C4-02BA-41BD-9D9E-F114BE91C414}|BRTAPI\\BRTAPI.csproj|solutionrelative:brtapi\\controllers\\containercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8E77C4-02BA-41BD-9D9E-F114BE91C414}|BRTAPI\\BRTAPI.csproj|d:\\aictgitprojects\\brtapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B8E77C4-02BA-41BD-9D9E-F114BE91C414}|BRTAPI\\BRTAPI.csproj|solutionrelative:brtapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8E77C4-02BA-41BD-9D9E-F114BE91C414}|BRTAPI\\BRTAPI.csproj|d:\\aictgitprojects\\brtapi\\brtapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4B8E77C4-02BA-41BD-9D9E-F114BE91C414}|BRTAPI\\BRTAPI.csproj|solutionrelative:brtapi\\brtapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A2E219-2127-4797-A9F0-487A1D500EEC}|BRT\\BRT.csproj|d:\\aictgitprojects\\brt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A2E219-2127-4797-A9F0-487A1D500EEC}|BRT\\BRT.csproj|solutionrelative:brt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8E77C4-02BA-41BD-9D9E-F114BE91C414}|BRTAPI\\BRTAPI.csproj|d:\\aictgitprojects\\brtapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B8E77C4-02BA-41BD-9D9E-F114BE91C414}|BRTAPI\\BRTAPI.csproj|solutionrelative:brtapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AICTGITPROJECTS\\BRT\\appsettings.json",
+              "RelativeDocumentMoniker": "BRT\\appsettings.json",
+              "ToolTip": "D:\\AICTGITPROJECTS\\BRT\\appsettings.json",
+              "RelativeToolTip": "BRT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T06:27:37.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\AICTGITPROJECTS\\BRT\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BRT\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\AICTGITPROJECTS\\BRT\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BRT\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:27:34.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\AICTGITPROJECTS\\BRTAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BRTAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\AICTGITPROJECTS\\BRTAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BRTAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:27:20.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContainerController.cs",
+              "DocumentMoniker": "D:\\AICTGITPROJECTS\\BRTAPI\\Controllers\\ContainerController.cs",
+              "RelativeDocumentMoniker": "BRTAPI\\Controllers\\ContainerController.cs",
+              "ToolTip": "D:\\AICTGITPROJECTS\\BRTAPI\\Controllers\\ContainerController.cs",
+              "RelativeToolTip": "BRTAPI\\Controllers\\ContainerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:27:09.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BRTAPI",
+              "DocumentMoniker": "D:\\AICTGITPROJECTS\\BRTAPI\\BRTAPI.csproj",
+              "RelativeDocumentMoniker": "BRTAPI\\BRTAPI.csproj",
+              "ToolTip": "D:\\AICTGITPROJECTS\\BRTAPI\\BRTAPI.csproj",
+              "RelativeToolTip": "BRTAPI\\BRTAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T05:47:18.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AICTGITPROJECTS\\BRTAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BRTAPI\\appsettings.json",
+              "ToolTip": "D:\\AICTGITPROJECTS\\BRTAPI\\appsettings.json",
+              "RelativeToolTip": "BRTAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T05:37:44.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\AICTGITPROJECTS\\BRTAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BRTAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\AICTGITPROJECTS\\BRTAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BRTAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T05:36:12.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AICTGITPROJECTS\\BRT\\Program.cs",
+              "RelativeDocumentMoniker": "BRT\\Program.cs",
+              "ToolTip": "D:\\AICTGITPROJECTS\\BRT\\Program.cs",
+              "RelativeToolTip": "BRT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:35:09.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
